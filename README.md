@@ -223,3 +223,6 @@
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=7FD957&line=7FD957&point=7FD957" alt="TejaNaik15's contribution graph" />
     </picture>
 </div>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake.svg#gh-light-mode-only)
